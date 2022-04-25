@@ -32,7 +32,7 @@ function fizzBuzz2() {
     return mostrar;
     
 }
-// Multiplos de 3
+
 function fizzBuzz3() {
     let mostrar = document.getElementById("mostrar").value;
     var FizzBuzz = 0;
